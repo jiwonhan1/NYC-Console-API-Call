@@ -1,0 +1,11 @@
+/Users/Guest/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.deps.json
+/Users/Guest/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.runtimeconfig.json
+/Users/Guest/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.runtimeconfig.dev.json
+/Users/Guest/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.dll
+/Users/Guest/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.pdb
+/Users/Guest/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.csprojAssemblyReference.cache
+/Users/Guest/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.csproj.CoreCompileInputs.cache
+/Users/Guest/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.AssemblyInfoInputs.cache
+/Users/Guest/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.AssemblyInfo.cs
+/Users/Guest/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.dll
+/Users/Guest/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.pdb
